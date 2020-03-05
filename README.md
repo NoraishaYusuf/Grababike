@@ -5,6 +5,14 @@ date: "December 13, 2018"
 
 ---
 
+[RMarkdown html link](http://htmlpreview.github.io/?https://github.com/lowtsusiang/Grababike/blob/master/RR.html).
+
+[Dataset download link](https://www.kaggle.com/yingwurenjian/chicago-divvy-bicycle-sharing-data).
+
+[Presentation slide](https://rpubs.com/A1sha/Grababike).
+
+[App](https://wqd180008.shinyapps.io/grababike/).
+
 >**A group assignment for WQD7001: Principle Data Science, University Malaya**
 
 A brief summary of this document is also available in presentation format at this link: [Rpub link](http://rpubs.com/A1sha/Grababike).
@@ -193,7 +201,4 @@ A quick look at the Grab a Bike app
 *Note:* Please refer to the ui.r and server.r files which are available in the same github account, for the Shiny App construction. 
 
 
-[RMarkdown html link](http://htmlpreview.github.io/?https://github.com/lowtsusiang/Grababike/blob/master/RR.html).
-
-[Dataset download link](https://www.kaggle.com/yingwurenjian/chicago-divvy-bicycle-sharing-data).
 
